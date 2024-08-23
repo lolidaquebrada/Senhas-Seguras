@@ -6,6 +6,10 @@
     --borda: #0075FF;
     --roboto: 'Roboto', sans-serif;
     --roboto-mono: 'Roboto-mono', monospace
+    *{
+        font-weight: 400
+    }
+    
 }
     body{
 color: var(--branco);
